@@ -1,0 +1,13 @@
+{
+  "modules": [
+    "Footer",
+    "Header",
+    "HomePageTakeover",
+    "TopStories",
+    "WeatherTakeover",
+    "WeatherPage",
+    "WarnEspRadar",
+    "UControl",
+    "Seismograph"
+  ]
+}

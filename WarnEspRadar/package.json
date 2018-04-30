@@ -1,0 +1,88 @@
+{
+  "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
+  "tag": "NEXGEN",
+  "affiliates": [
+    "kotv",
+    "kwtv"
+  ],
+  "propTypes": {
+    "affiliate": "PropTypes.string",
+    "stateWideLarge": "PropTypes.string",
+    "stateWideSmall": "PropTypes.string",
+    "iframeSrc" : "PropTypes.string"
+  },
+  "defaultProps": {
+    "iframeSrc" : "http://aws.kotv.com/MorHtml5/index_tulsa.html",
+    "affiliate": "kotv",
+    "stateWideLarge": "http://aws.kotv.com/kotv/ssite/320x225/statewide_anim.gif?",
+    "stateWideSmall": "http://aws.kotv.com/kotv/ssite/110x62/main_anim.gif?",
+    "radars": [
+      {
+        "name": "Bartlesville",
+        "small": "http://aws.kotv.com/kotv/ssite/110x62/bart_anim.gif?",
+        "large": "http://aws.kotv.com/kotv/ssite/320x225/bart_anim.gif?"
+      },
+      {
+        "name": "Grand Lake",
+        "small": "http://aws.kotv.com/kotv/ssite/110x62/grand_anim.gif?",
+        "large": "http://aws.kotv.com/kotv/ssite/320x225/grand_anim.gif?"
+      },
+      {
+        "name": "Muskogee",
+        "small": "http://aws.kotv.com/kotv/ssite/110x62/musk_anim.gif?",
+        "large": "http://aws.kotv.com/kotv/ssite/320x225/musk_anim.gif?"
+      },
+      {
+        "name": "McAlester",
+        "small": "http://aws.kotv.com/kotv/ssite/110x62/mcal_anim.gif?",
+        "large": "http://aws.kotv.com/kotv/ssite/320x225/mcal_anim.gif?"
+      },
+      {
+        "name": "Oklahoma City",
+        "small": "http://aws.kotv.com/kwtv/ssite/110x62/central_anim.gif?",
+        "large": "http://aws.kotv.com/kwtv/ssite/320x225/central_anim.gif?"
+      },
+      {
+        "name": "Northeast Oklahoma",
+        "small": "http://aws.kotv.com/kotv/ssite/110x62/neok_anim.gif?",
+        "large": "http://aws.kotv.com/kotv/ssite/320x225/neok_anim.gif?"
+      },
+      {
+        "name": "Tulsa",
+        "small": "http://aws.kotv.com/kotv/ssite/110x62/tulsa_anim.gif?",
+        "large": "http://aws.kotv.com/kotv/ssite/320x225/tulsa_anim.gif?"
+      },
+      {
+        "name": "South East Oklahoma",
+        "small": "http://aws.kotv.com/kotv/ssite/110x62/seok_anim.gif?",
+        "large": "http://aws.kotv.com/kotv/ssite/320x225/seok_anim.gif?"
+      },
+      {
+        "name": "North Oklahoma",
+        "small": "http://aws.kotv.com/kwtv/ssite/110x62/ncok_anim.gif?",
+        "large": "http://aws.kotv.com/kwtv/ssite/320x225/ncok_anim.gif?"
+      },
+      {
+        "name": "South Oklahoma",
+        "small": "http://aws.kotv.com/kwtv/ssite/110x62/scok_anim.gif?",
+        "large": "http://aws.kotv.com/kwtv/ssite/320x225/scok_anim.gif?"
+      },
+      {
+        "name": "North West Oklahoma",
+        "small": "http://aws.kotv.com/kwtv/ssite/110x62/nwok_anim.gif?",
+        "large": "http://aws.kotv.com/kwtv/ssite/320x225/nwok_anim.gif?"
+      },
+      {
+        "name": "South West Oklahoma",
+        "small": "http://aws.kotv.com/kwtv/ssite/110x62/swok_anim.gif?",
+        "large": "http://aws.kotv.com/kwtv/ssite/320x225/swok_anim.gif?"
+      }
+    ]
+  },
+  "propChoices": {
+    "affiliate": [
+      "kotv",
+      "kwtv"
+    ]
+  }
+}
